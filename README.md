@@ -5,6 +5,9 @@ An Excel-based reconciliation tool that simulates the process of validating
 investment data across two sources — a custodian report and a fund statement. 
 Designed to replicate real analyst workflows in institutional investment data operations.
 
+## Dashboard Preview
+![Dashboard Preview](assets/dashboard_preview.png)
+
 ## Problem It Solves
 Investment analysts must regularly reconcile data from multiple providers to ensure 
 accuracy before client reporting. This tool automates that comparison, flags 
